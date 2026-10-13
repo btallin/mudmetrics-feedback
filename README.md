@@ -1,6 +1,6 @@
 # MudMetrics feedback
 
-Public bug reports and feature requests for [MudMetrics](https://mudmetrics.ca).
+Public bug reports and feature requests for [MudMetrics](https://mudmetrics.tallin.dev).
 
 [Browse reports](https://github.com/btallin/mudmetrics-feedback/issues) or
 [report a bug or request a feature](https://github.com/btallin/mudmetrics-feedback/issues/new/choose).
